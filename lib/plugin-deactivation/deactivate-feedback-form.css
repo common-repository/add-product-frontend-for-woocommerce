@@ -1,0 +1,24 @@
+.codecabin-deactivate-dialog{
+	text-align: left;
+	width: auto;
+}
+
+.codecabin-deactivate-dialog-buttons{
+	text-align: right;
+}
+
+.codecabin-deactivate-dialog{
+	width: auto !important;
+}
+
+.codecabin-deactivate-dialog h1{
+	color: #000;
+    font-variant: small-caps;
+    font-size: 2.4em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid lightgray;
+}
+
+.codecabin-deactivate-dialog input[name="comments"]{
+	width: 380px;
+}

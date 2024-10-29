@@ -1,0 +1,10 @@
+#wpwrap{ background-color: #f0f0f1; } 
+#wpcontent .entry-edit{ background-color: #ffffff00; }
+.postbox-container .row h2{ font-weight: 300; }
+.inside.apffw-woo .main td { column-count: 4; }
+.nav-tab-wrapper, .wrap h2.nav-tab-wrapper { background-color: #f0f0f1; border-bottom: 1px solid #c3c4c7; display: flex; flex-wrap: wrap; justify-content: left; }
+   /* product list pagination */
+.product_list_pagination{ display: flex; justify-content: right; align-items: center; margin: 30px; }
+.product_list_pagination .page-numbers { padding: 8px 16px; border: 1px solid #0000002b; text-decoration: none; color: #000; }
+.product_list_pagination .page-numbers:hover{ text-decoration: underline; }
+.product_list_pagination span.page-numbers.current { background: #0068B4; color: white; }
